@@ -1,0 +1,6 @@
+ZionCoin/        ← seu repositório
+│
+├─ index.html    ← página principal (você já tem)
+├─ style.css     ← arquivo de estilo
+└─ assets/       ← pasta para imagens (logo)
+      └─ logo.png
